@@ -1,0 +1,10 @@
+﻿{
+  "name": "com.edward-creighton.sterling.general",
+  "version": "0.0.1",
+  "displayName": "Sterling General",
+  "description": "Default Sterling assets",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
+  }
+}
